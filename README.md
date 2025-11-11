@@ -120,7 +120,7 @@ En general, este trabajo fue clave para comprender cómo estructurar un proyecto
 
 ## Autor
 
-**Nombre:** Enzo Fernández, Nacho Gracia
+**Nombre:** Enzo Fernández
 **Legajo:** 49606
 **Carrera:** Ingeniería en Sistemas de Información  
 **Materia:** Fundamentos de Spring Boot – UTN FRM  
